@@ -4,6 +4,6 @@ Built an automated system to detect harmful discourse in social media text as pa
 
 Classified user-generated content into three distinct categories with a focus on distinguishing between "offensive language" and "hate speech" to reduce false positives in moderation.
 
-Optimized model performance through hyperparameter tuning, resulting in a 9.5 accuracy rate on unseen test data.
+Optimized model performance through hyperparameter tuning, resulting in a 95% accuracy rate on unseen test data.
 
 Processed a dataset of 10,000 records, demonstrating ability to handle and clean large-scale unstructured text data.
