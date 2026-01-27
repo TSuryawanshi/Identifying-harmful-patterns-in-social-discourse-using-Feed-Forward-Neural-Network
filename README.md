@@ -149,23 +149,6 @@ Recommended environment:
 
 ---
 
-## 📊 Evaluation
-
-Model prints:
-
-* Classification report
-* Test accuracy
-* Balanced metrics for all classes
-
-Example metric snippet:
-
-```
-precision / recall / f1-score
-Test Accuracy: X.XXXX
-```
-
----
-
 ## 📬 Notes
 
 * Designed for academic + research use
