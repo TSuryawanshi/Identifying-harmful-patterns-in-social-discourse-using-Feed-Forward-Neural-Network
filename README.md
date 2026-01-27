@@ -74,7 +74,7 @@ Example input:
 Output:
 
 ```
-"check link"
+"Neutral"
 ```
 
 ---
